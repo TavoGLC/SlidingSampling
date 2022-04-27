@@ -480,7 +480,7 @@ for fold in foldNames:
     Encoder.save(outputPath + '/Encoder'+fold+'.h5')
 
     tf.compat.v1.set_random_seed(globalSeed)
-'''
+
 ###############################################################################
 # Learning curves
 ###############################################################################
@@ -592,5 +592,3 @@ for k,block in enumerate(zip(EncoderContainer,AEContainer)):
     completeDataFrame['Dim1_model'+str(k)] = VariationalRepresentation[:,1]
     
 completeDataFrame.to_csv(outputPath+'/CompDimReduction.csv')
-
-'''
