@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/tavoglc/covid19-graph-sequences
 https://www.kaggle.com/datasets/tavoglc/covid19-bidirectional-graphs
 
 ### Adjacency matrix model 5 and model 6 
-pending 
+https://www.kaggle.com/datasets/tavoglc/covid19-graphs-by-fragments
 
 ### Meta data 
 https://www.kaggle.com/datasets/tavoglc/covid19-metadata
