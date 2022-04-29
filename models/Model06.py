@@ -151,23 +151,6 @@ def MakeConvolutionBlock(X, Convolutions):
     X = BatchNormalization()(X)
     X = LeakyReLU()(X)
     
-    #X1 = Conv3D(Convolutions, (3,3,3), padding='same',use_bias=False)(K.reverse(X,axes=1))
-    #X1 = BatchNormalization()(X1)
-    #X1 = LeakyReLU()(X1)
-    
-    #X2 = Conv3D(Convolutions, (3,3,3), padding='same',use_bias=False)(K.reverse(X,axes=2))
-    #X2 = BatchNormalization()(X2)
-    #X2 = LeakyReLU()(X2)
-    
-    #X3 = Conv3D(Convolutions, (3,3,3), padding='same',use_bias=False)(K.reverse(X,axes=3))
-    #X3 = BatchNormalization()(X3)
-    #X3 = LeakyReLU()(X3)
-    
-    #XL = Average()([X0,K.reverse(X1,axes=1),K.reverse(X2,axes=1),K.reverse(X3,axes=1)])
-    #XL = Conv3D(Convolutions, (3,3,3), padding='same',use_bias=False)(XL)
-    #XL = BatchNormalization()(XL)
-    #XL = LeakyReLU()(XL)
-    
     return X
 
 #Wrapper function to make the dense convolutional block
