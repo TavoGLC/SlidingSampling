@@ -43,6 +43,9 @@ https://www.kaggle.com/code/tavoglc/bidirectional-encoding-of-sars-cov-2-sequenc
 Pending
 
 
+## Other analysis 
 
+### Composition paths
+https://www.kaggle.com/code/tavoglc/temporal-paths-inside-sars-cov2
 
 
