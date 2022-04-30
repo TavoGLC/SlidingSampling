@@ -40,7 +40,7 @@ Its the original architecturer, it was reduced due to large training times, equa
 https://www.kaggle.com/code/tavoglc/bidirectional-encoding-of-sars-cov-2-sequences
 
 ### Model 5 and 6 
-Pending
+https://www.kaggle.com/code/tavoglc/fragment-based-encoding-of-sars-cov2
 
 
 ## Other analysis 
