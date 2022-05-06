@@ -48,4 +48,6 @@ https://www.kaggle.com/code/tavoglc/fragment-based-encoding-of-sars-cov2
 ### Composition paths
 https://www.kaggle.com/code/tavoglc/temporal-paths-inside-sars-cov2
 
+### Pandemic peaks and day length
+https://www.kaggle.com/code/tavoglc/worldwide-covid-19-peak-prediction
 
