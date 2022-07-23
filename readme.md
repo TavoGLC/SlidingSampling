@@ -23,6 +23,15 @@ https://www.kaggle.com/datasets/tavoglc/covid19-metadata
 ### Weather data 
 https://www.kaggle.com/datasets/tavoglc/weather-data-in-2021
 
+### American continent data 
+https://www.kaggle.com/datasets/tavoglc/covid19-in-the-american-continent
+
+### Europe data 
+https://www.kaggle.com/datasets/tavoglc/covid19-cases
+
+### Weather data 2
+https://www.kaggle.com/datasets/tavoglc/covid19-cases
+
 ## Notebooks 
 
 ### Model 1 
@@ -43,6 +52,9 @@ https://www.kaggle.com/code/tavoglc/bidirectional-encoding-of-sars-cov-2-sequenc
 https://www.kaggle.com/code/tavoglc/fragment-based-encoding-of-sars-cov2
 
 
+### Dynamical model
+https://www.kaggle.com/code/tavoglc/sars-cov2-dynamical-vae-modeling
+
 ## Other analysis 
 
 ### Composition paths
@@ -51,3 +63,5 @@ https://www.kaggle.com/code/tavoglc/temporal-paths-inside-sars-cov2
 ### Pandemic peaks and day length
 https://www.kaggle.com/code/tavoglc/worldwide-covid-19-peak-prediction
 
+### Time scales
+https://www.kaggle.com/code/tavoglc/covid-19-pandemic-under-different-time-scales
