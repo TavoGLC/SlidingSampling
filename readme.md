@@ -1,5 +1,8 @@
 # Aplications of sliding sampling to biological sequences.
 
+## Preprint first version 
+https://www.researchsquare.com/article/rs-1691291/v1
+
 ## Datasets
 
 ### Selected sequences
