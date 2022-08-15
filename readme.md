@@ -68,3 +68,6 @@ https://www.kaggle.com/code/tavoglc/worldwide-covid-19-peak-prediction
 
 ### Time scales
 https://www.kaggle.com/code/tavoglc/covid-19-pandemic-under-different-time-scales
+
+### Genetic mimicry
+https://www.kaggle.com/code/tavoglc/measuring-similarity-between-sars-co2-and-the-host
