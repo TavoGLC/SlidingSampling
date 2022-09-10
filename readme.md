@@ -3,6 +3,9 @@
 ## Preprint first version 
 https://www.researchsquare.com/article/rs-1691291/v1
 
+## Blog posts
+https://tavoglc.medium.com/list/machine-learning-and-covid19-0659a2c0bb92
+
 ## Datasets
 
 ### Selected sequences
