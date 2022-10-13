@@ -41,7 +41,11 @@ https://www.kaggle.com/datasets/tavoglc/covid19-cases
 ## Notebooks 
 
 ### Model 1 
+Original Architecture Tensorflow
 https://www.kaggle.com/code/tavoglc/seasonal-disentangling-of-sars-cov-2
+
+Improved Model JAX 
+https://www.kaggle.com/code/tavoglc/autoencoders-jax-and-sars-cov2
 
 ### Model 2
 https://www.kaggle.com/code/tavoglc/patterns-inside-sars-cov-2-sequences
@@ -74,3 +78,12 @@ https://www.kaggle.com/code/tavoglc/covid-19-pandemic-under-different-time-scale
 
 ### Genetic mimicry
 https://www.kaggle.com/code/tavoglc/measuring-similarity-between-sars-co2-and-the-host
+
+### Pangolin classification model
+https://www.kaggle.com/code/tavoglc/sarscov2-variant-classification-model
+
+### Time series analisis 
+https://www.kaggle.com/code/tavoglc/seasonal-and-trend-components-in-sars-cov2
+
+### Pandemic synchronization 
+https://www.kaggle.com/code/tavoglc/fractional-calculus-and-the-covid19-pandemic
